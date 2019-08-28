@@ -14,7 +14,7 @@ Short url - http://bit.ly/30Aitr3
 Admin Link - view ip address
 
 
-Short url - http://bit.ly/30CBiKk
+Short url - http://bit.ly/2ZscG9H
 
 
 username - sdcode
